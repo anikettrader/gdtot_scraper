@@ -4,10 +4,10 @@ import requests
 from urllib.parse import urlparse, parse_qs
 
 # gdtot url
-URL = "" 
+URL = "https://new1.gdtot.zip/file/251494041" 
 
 # add your crypt cookie here
-crypt = "" 
+crypt = "dlhvaTBvRzhxYldPNVV5RUdYMUV2Q2ZWSWJsYkJyRmVUMytzeU9zZmhTdz0%3D; " 
 
 # ==========================================
 
